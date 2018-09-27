@@ -1,3 +1,1 @@
 # first-repository
-
-First commit
